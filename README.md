@@ -1,0 +1,1 @@
+Aplicativo web para controlar e monitorar a contagem de pessoas realizada por diferentes câmeras.
